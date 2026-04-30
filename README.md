@@ -2,7 +2,7 @@
 
 > **Poste visé :** Stagiaire Développeur Frontend  
 > **Stack attendue :** Next.js · React · Tailwind CSS  
-> **Soumission :** Fork ce repo → développe → envoie le lien de ton repo à [recrutement@karaba.africa]
+> **Soumission :** Fork ce repo → développe → envoie le lien de ton repo à [careers@karaba.africa]
 
 ---
 
@@ -103,7 +103,7 @@ botflow-ui/
 1. **Fork** ce repository
 2. Développe sur ta propre branche ou directement sur `main`
 3. Assure-toi que `npm install && npm run dev` fonctionne sans erreur
-4. Envoie le lien de ton repo GitHub à **recrutement@karaba.africa** avec en objet : `[STAGE FRONTEND] Ton Nom`
+4. Envoie le lien de ton repo GitHub à **careers@karaba.africa** avec en objet : `[STAGE FRONTEND] Ton Nom`
 
 > ⚠️ Un repo sans README de lancement ou qui ne démarre pas sera automatiquement écarté.
 
